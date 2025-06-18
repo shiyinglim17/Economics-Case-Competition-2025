@@ -6,3 +6,6 @@ Labor productivity is a critical driver of Singapore's economic growth, particul
 
 ## Problem Statement Chosen
 Develop strategies to bridge the skills gap in Singapore’s workforce, aligning competencies with high-growth sectors like digital services and green industries.
+
+## Slide Deck
+[Link to Slide Deck](https://drive.google.com/file/d/1Vy0iTlEcNLKfdYvKgIlF0mUBnD5r24yt/view?usp=sharing)
